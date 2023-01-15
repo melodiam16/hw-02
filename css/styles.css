@@ -214,8 +214,8 @@ body {
 
 .btn-1:hover,
 .btn-1:focus {
-color: var(--ocean-cl);
-background-color: var(--light-bg-cl);
+  color: var(--ocean-cl);
+  background-color: var(--light-bg-cl);
 }
 
 .btn-nav:hover,
@@ -226,15 +226,15 @@ background-color: var(--light-bg-cl);
 
 .subtitle-description {
   font-weight: 500;
-font-size: 20px;
-line-height: calc(24 / 20);
-letter-spacing: 0.02em;
-color: var(--black-txt-cl);
+  font-size: 20px;
+  line-height: calc(24 / 20);
+  letter-spacing: 0.02em;
+  color: var(--black-txt-cl);
 }
 
 .text-description {
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: var(--slate-txt-cl);
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: var(--slate-txt-cl);
 }
